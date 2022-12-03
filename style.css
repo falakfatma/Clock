@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #c8ebf466;
+}
+
+.clock{
+  background-color: #72b6bb;
+  color: white;
+  width: 22rem;
+  height: 5rem;
+  display: flex;
+/*   align-items: center; */
+  justify-content: center;
+}
